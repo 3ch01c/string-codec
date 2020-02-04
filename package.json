@@ -33,7 +33,7 @@
     "caesar-salad": "^1.0.1",
     "cheerio": "^0.22.0",
     "crc": "^3.2.1",
-    "sync-request": "^3.0.1"
+    "sync-request": "^6.1.0"
   },
   "devDependencies": {
     "coffee-script": "^1.9.2",
